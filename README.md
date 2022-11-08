@@ -19,3 +19,5 @@ Criando um site com as caracteristicas do streaming de jogos da Xbox live, onde 
 - Linkedln: 'https://www.linkedin.com/in/pedroreezende/'
 
 - Deploy: 'https://front-xbox-live-ui.vercel.app'
+
+![Uploading image.png…]()
